@@ -1,2 +1,2 @@
 # Machine-Learning
-Some Key-deceptions on ML 
+Some Key-conceptions on ML 
